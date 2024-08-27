@@ -1,5 +1,5 @@
 // pluginInfo.js
-export default {
+       {
     "name": "GlobalBadges",
     "version": "0.1",
     "description": "Adds global badges from other client mods",

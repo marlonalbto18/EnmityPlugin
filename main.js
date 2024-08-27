@@ -1,6 +1,6 @@
 // pluginInfo.js
        {
-    "name": "GlobalBadges",
+    "name": "PluginTwst",
     "version": "0.1",
     "description": "Adds global badges from other client mods",
     "authors": [
